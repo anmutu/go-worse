@@ -23,7 +23,7 @@ package main
 
 import (
    "fmt"
-   "github.com/yourusername/go-ternary"
+   "github.com/anmutu/go-ternary"
 )
 
 func main() {
